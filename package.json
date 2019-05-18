@@ -21,24 +21,24 @@
         "telescopes"
     ],
     "files": [
-        "ansi.h"
-        "cnt.hh"
-        "colormap.hh"
-        "dcube.hh"
-        "exception.cpp"
-        "exception.hh"
-        "jpeg_writer.cpp"
-        "jpeg_writer.hh"
-        "lst.hh"
-        "mat.hh"
-        "mem.hh"
-        "pngwriter.cpp"
-        "pngwriter.hh"
-        "rect.hh"
-        "stream.hh"
-        "stream_object.hh"
-        "threads.cpp"
-        "threads.hh"
+        "ansi.h",
+        "cnt.hh",
+        "colormap.hh",
+        "dcube.hh",
+        "exception.cpp",
+        "exception.hh",
+        "jpeg_writer.cpp",
+        "jpeg_writer.hh",
+        "lst.hh",
+        "mat.hh",
+        "mem.hh",
+        "pngwriter.cpp",
+        "pngwriter.hh",
+        "rect.hh",
+        "stream.hh",
+        "stream_object.hh",
+        "threads.cpp",
+        "threads.hh",
         "vec.hh"
     ],
     "author": "Pierre Sprimont, Davide Ricci",
