@@ -40,7 +40,7 @@
         "threads.cpp"
         "threads.hh"
         "vec.hh"
-    ]
+    ],
     "author": "Pierre Sprimont, Davide Ricci",
     "license": "ISC",
     "bugs": {
